@@ -1,0 +1,74 @@
+section.container h1{
+	color:#015cac;
+	font-size:28px;
+	text-align:center;
+	font-weight:400;
+	margin-bottom:5%;
+}
+
+section.container p{
+	font-size:24px;
+	color:#353839;
+	line-height:32px;
+}
+
+section.container div#fotos{
+	width:1200px;
+	height:270px;
+	/*background-color:pink;*/
+	margin-top:40px;
+}
+
+section.container div#fotos ul li{
+	list-style:none;
+	float:left;
+	width:260px;	
+}
+
+section.container div#fotos ul li#foto2,
+section.container div#fotos ul li#foto3,
+section.container div#fotos ul li#foto4{
+	margin-left:53px;
+}
+
+section.container h2{
+	color:#015cac;
+	font-size:28px;
+	font-weight:400;
+	margin-top:2%;
+	margin-bottom:2%;
+}
+
+section.container div#quartos{
+	width:1200px;
+	height:800px;
+	/*background-color:pink;*/
+	margin-top:40px;
+}
+
+section.container div#quartos ul li{
+	list-style:none;
+	float:left;
+	width:260px;	
+}
+
+section.container div#quartos ul li#quarto3,
+section.container div#quartos ul li#quarto4,
+section.container div#quartos ul li#quarto5,
+section.container div#quartos ul li#quarto7,
+section.container div#quartos ul li#quarto8,
+section.container div#quartos ul li#quarto9,
+section.container div#quartos ul li#quarto11{
+	margin-left:53px;
+}
+
+section.container div#quartos ul li#quarto2,
+section.container div#quartos ul li#quarto3,
+section.container div#quartos ul li#quarto4,
+section.container div#quartos ul li#quarto5,
+section.container div#quartos ul li#quarto6,
+section.container div#quartos ul li#quarto7,
+section.container div#quartos ul li#quarto8,
+section.container div#quartos ul li#quarto9{
+	margin-bottom:60px;
+}

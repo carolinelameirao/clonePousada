@@ -1,0 +1,145 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family: arial, tahoma;
+}
+
+header.cabecalho{
+	width:100%;
+	height:140px;
+	background-color:#011b3c;
+}
+
+header.cabecalho div.topo{
+	width:1200px;
+	height:140px;
+	/*background-color:pink;*/
+	margin:auto;
+}
+
+header.cabecalho div.topo img.logo{
+	float:left;
+	margin-top:15px;
+	margin-left:30px;
+}
+
+header.cabecalho div.topo nav.menu{
+	width:500px;
+	height:30px;
+	/*background-color:orange;*/
+	float:left;
+	margin-left:320px;
+	margin-top:100px;
+}
+
+header.cabecalho div.topo nav.menu ul li{
+	list-style:none;
+	display:inline;
+	margin-right:15px;
+	margin-left:15px;
+}
+
+header.cabecalho div.topo nav.menu ul li a{
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+}
+
+header.cabecalho div.topo nav.menu ul li a:hover{
+	color:#3db9eb;
+}
+
+section.galeria{
+	width:100%;
+}
+
+section.container{
+	width:1200px;
+	height:auto;
+	margin:auto;
+	margin-top:60px;
+	border:2px solid gray;
+}
+
+footer.rodape{
+	width:100%;
+	height:300px;
+	background-color:#011b3c;
+	margin-top:40px;
+}
+
+footer.rodape div.caixarodape{
+	width:1200px;
+	height:300px;
+	/*background-color:orange;*/
+	margin:auto;
+}
+
+footer.rodape div.caixarodape div.mapa{
+	width:380px;
+	height:300px;
+	/*background-color:pink;*/
+	float:left;
+}
+
+footer.rodape div.caixarodape div.menurodape{
+	width:380px;
+	height:300px;
+	/*background-color:purple;*/
+	float:left;
+	margin-left:30px;
+	text-align:center;
+}
+
+footer.rodape div.caixarodape div.menurodape nav.menufinal{
+	width:220px;
+	height:200px;
+	/*background-color:black;*/
+	margin:auto;
+	padding-top:40px;
+}
+
+footer.rodape div.caixarodape div.menurodape nav.menufinal ul li{
+	list-style:none;
+	line-height:28px;
+}
+
+footer.rodape div.caixarodape div.menurodape nav.menufinal a{
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+}
+
+footer.rodape div.caixarodape div.menurodape nav.menufinal a:hover{
+	color:#3db9eb;
+}
+
+footer.rodape div.caixarodape div.contato{
+	width:380px;
+	height:300px;
+	/*background-color:green;*/
+	float:right;
+}
+
+footer.rodape div.caixarodape div.contato p{
+	font-size: 20px;
+	color:white;
+	line-height:28px;
+	margin-top:40px;
+}
+
+footer.rodape div.caixarodape div.contato p.paragtop{
+	margin-top:10px;
+}
+
+footer.rodape div.caixarodape div.mapa h5,
+footer.rodape div.caixarodape div.menurodape h5,
+footer.rodape div.caixarodape div.contato h5{
+	font-weight:400;
+	font-size:24px;
+	color:white;
+	margin:20px 0 20px 0;
+}

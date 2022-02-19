@@ -1,0 +1,102 @@
+section.container h1{
+	color:#015cac;
+	font-size:28px;
+	text-align:center;
+	font-weight:400;
+	margin-bottom:5%;
+}
+
+section.container p{
+	font-size:24px;
+	color:#353839;
+	line-height:32px;
+}
+
+section.container div#bloco1,
+section.container div#bloco2,
+section.container div#bloco3,
+section.container div#bloco4,
+section.container div#bloco5,
+section.container div#bloco6,
+section.container div#bloco7{
+	width:1000px;
+	height:375px;
+	/*background-color:pink;*/
+	margin:auto;
+}
+
+section.container div#bloco1 div#imagem1,
+section.container div#bloco2 div#imagem2,
+section.container div#bloco3 div#imagem3,
+section.container div#bloco4 div#imagem4,
+section.container div#bloco5 div#imagem5,
+section.container div#bloco6 div#imagem6,
+section.container div#bloco7 div#imagem7{
+	width:480px;
+	height:375px;
+	/*background-color:green;*/
+	float:left;
+}
+
+section.container div#bloco1 div#texto1,
+section.container div#bloco2 div#texto2,
+section.container div#bloco3 div#texto3,
+section.container div#bloco4 div#texto4,
+section.container div#bloco5 div#texto5,
+section.container div#bloco6 div#texto6,
+section.container div#bloco7 div#texto7{
+	width:480px;
+	height:375px;
+	/*background-color:orange;*/
+	float:right;
+}
+
+section.container div#bloco1 div#texto1 h2,
+section.container div#bloco2 div#texto2 h2,
+section.container div#bloco3 div#texto3 h2,
+section.container div#bloco4 div#texto4 h2,
+section.container div#bloco5 div#texto5 h2,
+section.container div#bloco6 div#texto6 h2,
+section.container div#bloco7 div#texto7 h2{
+	color:#015cac;
+	font-size:28px;
+	font-weight:400;
+	margin-bottom:2%;
+}
+
+section.container div#bloco1 div#texto1 p,
+section.container div#bloco2 div#texto2 p,
+section.container div#bloco3 div#texto3 p,
+section.container div#bloco4 div#texto4 p,
+section.container div#bloco5 div#texto5 p,
+section.container div#bloco6 div#texto6 p,
+section.container div#bloco7 div#texto7 p{
+	font-size:18px;
+	color:#353839;
+	line-height:32px;
+	margin-bottom:30px;
+}
+
+section.container div#bloco1 div#texto1 a,
+section.container div#bloco2 div#texto2 a,
+section.container div#bloco3 div#texto3 a,
+section.container div#bloco4 div#texto4 a,
+section.container div#bloco5 div#texto5 a,
+section.container div#bloco6 div#texto6 a,
+section.container div#bloco7 div#texto7 a{
+	background-color:#f0a42a;
+	text-decoration:none;
+	color:white;
+	padding:10px 20px;
+	text-transform:uppercase;
+}
+
+section.container div#bloco1,
+section.container div#bloco2,
+section.container div#bloco3,
+section.container div#bloco4,
+section.container div#bloco5,
+section.container div#bloco6,
+section.container div#bloco7{
+	margin-bottom:60px;
+}

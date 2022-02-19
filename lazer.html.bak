@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8"/>
+	<title> Pousada Porto das Dunas </title>
+	
+	<link rel="stylesheet" type="text/css" href="css/estilo.css"/>
+	<link rel="stylesheet" type="text/css" href="css/lazer.css"/>
+	
+</head>
+
+<body>
+	
+	<header class="cabecalho">
+	
+		<div class="topo">
+		
+		<img src="img/logo.png" alt="Logo Pousada Porto das Dunas" class="logo"/>
+		
+		<nav class="menu">
+		
+			<ul>
+			
+				<li> <a href="index.html">Home</a> </li>
+				<li> <a href="pousada.html">A Pousada</a> </li>
+				<li> <a href="lazer.html">Lazer</a> </li>
+				<li> <a href="pontosturisticos.html">Pontos Turísticos</a> </li>
+			
+			</ul>
+		
+		</nav> <!--Fim Menu-->
+		
+		</div> <!--Fim Topo-->
+	
+	</header>	<!--Fim do Cabeçalho-->
+	
+	<section class="galeria">
+	
+		<img src="img/slide1.png" alt="Foto banner com o mapa representando o Park" width="100%" height="600"/>
+	
+	</section> <!--Fim Galeria-->
+	
+	<section class="container">
+	
+		<h1>Lazer</h1>
+		
+		<p>Nossa Área de lazer é composta por uma piscina com cadeiras de sol e quiosque com guarda sol, com mesideal para quem quer desfrutar de drinks à beira da piscina, parquinho infantil e sinuca.</p>
+
+		<p>A Pousada Porto das Dunas possui localização privilegiada ficando a 100 metros do complexo turístico Beach Park, onde fica o parque aquático, a praia do porto das dunas e música ao vivo para total diversão da família.</p>
+		
+		<div id="adesivos">
+		
+			<ul>
+			
+				<li id="adesivo2"><img src="img/adesivo2.jpg" width="260"/></li>
+				<li id="adesivo3"><img src="img/adesivo3.jpg" width="260"/></li>
+				<li id="adesivo4"><img src="img/adesivo4.jpg" width="260"/></li>
+				<li id="adesivo5"><img src="img/adesivo5.jpg" width="260"/></li>
+				<li id="adesivo6"><img src="img/adesivo6.jpg" width="260"/></li>
+				<li id="adesivo7"><img src="img/adesivo7.jpg" width="260"/></li>
+		
+			</ul>
+		
+		</div> <!--Fim Adesivos-->
+	
+	</section> <!--Fim Container-->
+	
+	<footer class="rodape">
+	
+		<div class="caixarodape">
+		
+			<div class="mapa">
+			
+				<h5>Como Chegar</h5>
+				
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4734.0326242768415!2d-38.39332454327026!3d-3.84641557197846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c75cac24b9ad69%3A0x1f79ef7248537d27!2sAv.%20dos%20Oceanos%2C%201584%20-%20Porto%20das%20Dunas%2C%20Aquiraz%20-%20CE%2C%2061700-000!5e0!3m2!1spt-BR!2sbr!4v1641650072031!5m2!1spt-BR!2sbr" width="380" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+			
+			</div>	<!--Fim Mapa-->
+			
+			<div class="menurodape">
+			
+				<h5>Mapa do Site</h5>
+				
+				<nav class="menufinal">
+		
+					<ul>
+					
+						<li> <a href="index.html">Home</a> </li>
+						<li> <a href="pousada.html">A Pousada</a> </li>
+						<li> <a href="lazer.html">Lazer</a> </li>
+						<li> <a href="pontosturisticos.html">Pontos Turísticos</a> </li>
+					
+					</ul>
+		
+				</nav> <!--Fim Menu-->
+			
+			</div>	<!--Fim Menu Rodapé-->
+			
+			<div class="contato">
+				
+				<h5>Contato</h5>
+			
+				<p><strong>Telefone:</strong> +55 85 3361-7444</p>
+				<p class="paragtop"><strong>Whatsapp:</strong> +55 (85) 99436-2021</p>
+
+				<p class="paragtop">reserva@pousadaportodasdunas.com.br</p>
+
+				<p class="paragtop">Av. dos Oceanos, 1584 - Porto das Dunas - Aquiraz - Ceará</p>
+			
+			</div>	<!--Fim Contato-->
+		
+		</div>	<!--Fim Caixa Rodapé-->
+	
+	</footer> <!--Fim Rodapé-->
+
+</body>
+</html>
